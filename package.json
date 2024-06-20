@@ -1,0 +1,15 @@
+{
+  "name": "couchaholic",
+  "version": "1.0.0",
+  "description": "Crash on couches, not dreams. Budget-friendly stays for the relaxation (or procrastination) enthusiast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
